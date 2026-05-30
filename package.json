@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
+}
